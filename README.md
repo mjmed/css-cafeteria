@@ -30,5 +30,7 @@ Incluye:
 -   [**SASS**](https://sass-lang.com/)
 -   [**Normalize.css**](https://necolas.github.io/normalize.css/)
 -   [Fuente **Roboto**](https://fonts.google.com/specimen/Roboto)
+-   [Fuente **Raleway**](https://fonts.google.com/specimen/Raleway)
+-   [Fuente **Bona Nova**](https://fonts.google.com/specimen/Bona+Nova)
 
 #### Versión: 0.1.0
