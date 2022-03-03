@@ -1,11 +1,12 @@
-@use "base/variables" as v;
+@use 'base/variables' as v;
+@use 'base/mixins' as m;
 
 .header {
 	padding: 5rem 0;
 	position: relative;
 
 	&::before {
-		content: "";
+		content: '';
 		background-color: v.$negro;
 		position: absolute;
 		top: 0;
