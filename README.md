@@ -22,11 +22,16 @@ Tecnologías utilizadas:
 Incluye:
 + Estilos con **SASS**
 + Compilación de archivos sass con **Gulp**
++ Normalización de CSS con **Normalize.css**
++ Fuentes personalizadas con **Google Fonts**
++ _Responsive Web Design_ con **Media Queries**
 
 
 #### Librerías y recursos utilizados:
 + [**Gulp**](https://gulpjs.com/)
 + [**SASS**](https://sass-lang.com/)
++ [**Normalize.css**](https://necolas.github.io/normalize.css/)
++ [Fuente **Roboto**](https://fonts.google.com/specimen/Roboto)
 
 
 #### Versión: 0.1.0
