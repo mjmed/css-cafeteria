@@ -6,7 +6,7 @@
 	position: relative;
 	background-repeat: no-repeat;
 	background-size: cover;
-	
+
 	@include m.tablet {
 		min-height: 70rem;
 	}
@@ -43,4 +43,7 @@
 }
 .header-nosotros {
 	background-image: url(../img/header_nosotros.jpg);
+}
+.header-proceso {
+	background-image: url(../img/header_proceso.jpg);
 }
