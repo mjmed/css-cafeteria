@@ -6,10 +6,10 @@
 	background-repeat: no-repeat;
 	background-position: center bottom;
 	background-size: 100%;
-	aspect-ratio: 3 / 8;
+	aspect-ratio: 3 / 6;
 
 	@include m.telefono {
-		aspect-ratio: 3 / 5;
+		aspect-ratio: 3 / 4;
 	}
 
 	@include m.tablet {
