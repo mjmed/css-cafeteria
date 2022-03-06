@@ -22,7 +22,7 @@ Tecnologías utilizadas:
 Incluye:
 + Estilos con **SASS**
 + Compilación de archivos sass con **Gulp**
-+ Minificación de archivos e imágenes con **Gulp**
++ Minificación de archivos e imágenes con **Gulp** y **cssnano**
 + Creación de imágenes _.avif_ y _.webp_ con **Gulp**
 + Normalización de CSS con **Normalize.css**
 + Fuentes personalizadas con **Google Fonts**
@@ -38,4 +38,4 @@ Incluye:
 - [Fuente **Bona Nova**](https://fonts.google.com/specimen/Bona+Nova)
 
 
-#### Versión: 0.1.0
+#### Versión: 1.0.0
